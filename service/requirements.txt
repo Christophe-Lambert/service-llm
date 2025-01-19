@@ -1,0 +1,6 @@
+flask
+transformers
+torch
+sentencepiece
+bitsandbytes
+accelerate>=0.26.0
